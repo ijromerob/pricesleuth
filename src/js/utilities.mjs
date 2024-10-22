@@ -33,6 +33,14 @@ async function loadHeaderFooterNav() {
   renderWithTemplate(footerTemplate, footerElement);
   renderWithTemplate(headerTemplate, headerElement);
   renderWithTemplate(navigationTemplate, navigationElement);
+  const hbutton = document.querySelector('#menu');
+  const navigation = document.querySelector('.navigation');
+
+  // This toggles the menu bar when is the mobile version
+  hbutton.addEventListener('click', () => {
+    navigation.classList.toggle('open');
+    hbutton.classList.toggle('open');
+  });
 }
 
 /**

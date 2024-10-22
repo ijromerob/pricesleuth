@@ -1,0 +1,23 @@
+@media screen and (min-width: 600px) {
+  :root {
+    --font-body: poppins, arial, Helvetica, sans-serif;
+    --font-headline: roboto, 'Arial Narrow Bold', sans-serif;
+
+    --primary-color: #050609;
+    --secondary-color: #ffffff;
+    --tertiary-color: #537d8d;
+    --accent-color: #e26d5a;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+  }
+  .menu-container {
+    display: none;
+  }
+  nav a {
+    display: block;
+    padding: 0.5em;
+  }
+}
