@@ -2,10 +2,11 @@ import { renderListWithTemplate, convertToJson } from './utilities.mjs';
 
 const baseWalmartURL = import.meta.env.WALMART_URL;
 export default class providerSearch {
-  constructor(listElement, searchURL, htmlTemplate) {
+  constructor(listElement, searchURL, htmlTemplate, extractArrayFn) {
     this.listElement = listElement;
     this.searchURL = searchURL;
     this.htmlTemplate = htmlTemplate;
+    this.extractArrayFn = extractArrayFn;
   }
 
   async getSearchData(searchElement) {
@@ -25,11 +26,8 @@ export default class providerSearch {
   async init() {
     const jsonData = await this.getData();
     if (jsonData) {
-      renderListWithTemplate(
-        this.htmlTemplate,
-        this.listElement,
-        jsonData.body.products
-      );
+      let arrayData = this.extractArrayFn(jsonData);
+      renderListWithTemplate(this.htmlTemplate, this.listElement, arrayData);
     }
   }
 }

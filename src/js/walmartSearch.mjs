@@ -8,3 +8,7 @@ export function walmartProductCardTemplate(product) {
   </a>
 </li>`;
 }
+
+export function extractWalmartArray(json) {
+  return json.body.products;
+}

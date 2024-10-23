@@ -1,6 +1,9 @@
 import { loadHeaderFooterNav } from './utilities.mjs';
 import providerSearch from './providerSearch.mjs';
-import { walmartProductCardTemplate } from './walmartSearch.mjs';
+import {
+  walmartProductCardTemplate,
+  extractWalmartArray,
+} from './walmartSearch.mjs';
 
 // renders the header, footer, and Nav
 loadHeaderFooterNav();
@@ -10,7 +13,8 @@ const searchURL = '/json/walmartsearch.json';
 const walmartSearch = new providerSearch(
   productsHTMLElement,
   searchURL,
-  walmartProductCardTemplate
+  walmartProductCardTemplate,
+  extractWalmartArray
 );
 
 walmartSearch.init();
