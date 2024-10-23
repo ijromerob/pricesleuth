@@ -125,3 +125,43 @@ main {
 .open ul {
   display: block;
 }
+
+/* Products views */
+
+#walmart-products {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  list-style-type: none;
+  padding: 0;
+  gap: 20px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.product-image {
+  height: 150px;
+  width: auto;
+  text-align: center;
+}
+
+.product-card {
+  width: 174px;
+  height: 300px;
+  border: 1px solid var(--accent-color2);
+  padding: 1em;
+  border-radius: 2em;
+}
+
+.product-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--accent-color1);
+}
+
+.product-link {
+  text-decoration: none;
+}
