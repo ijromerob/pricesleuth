@@ -6,7 +6,7 @@
   --secondary-color: #ffffff;
   --tertiary-color: #537d8d;
 
-  --accent-color1: #7785ac;
+  --accent-color1: #4e576e;
   --accent-color2: #e26d5a;
 }
 
@@ -128,7 +128,7 @@ main {
 
 /* Products views */
 
-#walmart-products {
+.products-display {
   display: flex;
   flex-wrap: wrap;
   margin: auto;

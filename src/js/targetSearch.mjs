@@ -1,14 +1,13 @@
-import { renderWithTemplate, convertToJson } from './utilities.mjs';
+export function targetProductCardTemplate(product) {
+  return `<li class="product-card">
+  <a class="product-link" href="${product.parent.item.enrichment.buy_url}">
+  <h4 class="product-title">${product.parent.item.product_description.title}</h4>
+  <img class="product-image" src="${product.parent.item.enrichment.images.primary_image_url}" alt="image of ${product.parent.item.product_description.title}" loading="lazy">
+    <p class="product-price">${product.parent.price.formatted_current_price}</p>
+  </a>
+</li>`;
+}
 
-const baseTargetURL = import.meta.env.TARGET_URL;
-export default class TargetSearch {
-  constructor(listElement) {
-    this.listElement = listElement;
-  }
-
-  async getSearchData(searchElement) {
-    const response = await fetch(baseTargetURL + `${searchElement}`);
-    const data = await convertToJson(response);
-    return data;
-  }
+export function extractTargetArray(json) {
+  return json.data.search.products;
 }
