@@ -53,4 +53,21 @@ function renderWithTemplate(template, parentElement, position = 'afterbegin') {
   parentElement.insertAdjacentHTML(position, template);
 }
 
-export { loadHeaderFooterNav, renderWithTemplate };
+// get URL Parameters
+function getParams(param) {
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const product = urlParams.get(param);
+  return product;
+}
+
+async function convertToJson(res) {
+  let jsonResponse = await res.json();
+  if (res.ok) {
+    return jsonResponse;
+  } else {
+    throw { name: 'servicesError', message: jsonResponse };
+  }
+}
+
+export { loadHeaderFooterNav, renderWithTemplate, getParams, convertToJson };

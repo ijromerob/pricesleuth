@@ -1,0 +1,849 @@
+{
+  "original_status": 200,
+  "pc_status": 200,
+  "url": "https://www.walmart.com/search?q=samsung galaxy",
+  "body": {
+    "products": [
+      {
+        "position": 1,
+        "title": "Straight Talk Samsung Galaxy A03s, 32GB, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A03s-32GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_48260dd5-2514-4508-8384-e31a0d87e3ff.74fbf31ab86956fd1be40e125ef6b603.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=1&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FStraight-Talk-Samsung-Galaxy-A03s-32GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk%2F706770009%3FclassType%3DREGULAR%26athbdg%3DL1200%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=8gcHSBUyXN5WGZO7xqKKuWsox2mN0FmzjoQ9CtDAeBXiP9uuX7P2synKqPfGKqyX2oklzu5Pu4-YZUWt0iyoo0rjSyTj17uTHio775J-KtrzzB9nz4C3ylyoShkacvyGkH3zRYdxoFoWeRT-FnacMrlBFO14UGhOqk9KB1JVMa2cuJGaDHRjJ_3vyiZhwKU7s50fKJJG0k3KDVy0EN6sh9Rs1ByqqgaCVO4yH3a8vJdk5UpU3uJmpKI9bNjaLm2E6p5SS7N6aIaMCQkRU--lZQ&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR&athbdg=L1200",
+        "price": {
+          "currentPrice": "$39.88",
+          "rawPrice": "39.88",
+          "originalPrice": "$59.88",
+          "currency": "$"
+        },
+        "reviewsCount": "6075",
+        "ratings": "3.8",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 2,
+        "title": "Samsung Galaxy S24 Ultra 256GB US Version, Unlocked Android Cell Phone with 200MP Camera, Titanium Violet",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S24-Ultra-256GB-Unlocked-Android-Smartphone-with-200MP-Camera-8K-Video-Long-Battery-Titanium-Violet_791b70bb-080c-40ca-8051-fd62d2a71df0.bd93f721fe340eca4e0c5c3ce9f7c78e.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=2&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FSamsung-Galaxy-S24-Ultra-256GB-Unlocked-Android-Smartphone-with-200MP-Camera-8K-Video-Long-Battery-Titanium-Violet%2F5176689746%3FclassType%3DVARIANT%26athbdg%3DL1600%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=iufVVCu-spuwhhsCgsmubft8t8DYr4NrvZO-WjkKGHFpC5_v6zRNsdIOPDoly7QNby-9ZJmDmNoWcoXgTVEe4Y4OEFAHMcXCKzC6oOPnKBhHtPRnXrn07JxIElYEMT5a3H1b78N7kzusaqG3N57F3n5cmMulhboJhIidR2jvlyZbTJC01EpGw-nmu3i7Ep6wkWp_6oFq82PTlPU2rak16G7PsNtvbRQ5MfQ0hp5k7Gs&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=VARIANT&athbdg=L1600",
+        "price": {
+          "currentPrice": "$1,092.40",
+          "rawPrice": "1,092.40",
+          "originalPrice": "$1,299.99",
+          "currency": "$"
+        },
+        "reviewsCount": "12449",
+        "ratings": "4.8",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": true,
+        "outOfStock": false
+      },
+      {
+        "position": 3,
+        "title": "Consumer Cellular, Samsung Galaxy A15 5G",
+        "image": "https://i5.walmartimages.com/seo/Consumer-Cellular-Samsung-Galaxy-A15-5G_5a284026-f1d7-4f51-bb76-8f2d18c10191.6640020f91bc5fe4be20eedaf993a3d7.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=3&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FConsumer-Cellular-Samsung-Galaxy-A15-5G%2F5416414691%3FclassType%3DREGULAR%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=R7nOmD4DR_K3jaJIP8G_nXHqk68BCo8mfu0CcJexuiaSR0tDJ6mCq2j9cfrcqTzVVwyOY10CdZYM80iXw5jAFNG0nHDiGjKDYW2OxLxUgBNoGHaVZadsU-j7ZGNzX4sSmrqjgJXmM_zmZ_baDpkzQiBu7hMkLmpD1dYfSsfuN02cuJGaDHRjJ_3vyiZhwKU7s50fKJJG0k3KDVy0EN6sh9Rs1ByqqgaCVO4yH3a8vJdk5UpU3uJmpKI9bNjaLm2E6p5SS7N6aIaMCQkRU--lZQ&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR",
+        "price": {
+          "currentPrice": "$199.00",
+          "rawPrice": "199.00",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "8",
+        "ratings": "4.4",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 4,
+        "title": "Straight Talk Samsung Galaxy A14, 5G, 64GB, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_9b0dfc82-e67d-4b6f-9bbb-15bbce461a54.651c0beca9f59bba2fd36838bef41918.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=4&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FStraight-Talk-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk%2F2311706193%3FclassType%3DREGULAR%26athbdg%3DL1103%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=sOzN-G7Tw_ORQ8k8sV8hIUnJiQa7Mfd1zjU6QwAb9II_7O2Yy_TGw8Fk21WsDc7k_qJcWUqcBdTShUOGxZWj2avDXZWRMAfMXeLJt3c0soisVH0albHfg0DCpGiipd4GCAyBP0Ng4XEbl0DFIIIb2Hgjl4Sn72QiIadZGGwb5Xwl4Z8mpgeMvbzsVEUE-ykKlemZtdCVdeKEwSygeX4HdsQ0UJl7hiNx8z0jcfxHQeRWi7f_DU7vNw2RhH9uWOVjkneYhOD_GK-qwlh4Wmw0kg&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR&athbdg=L1103",
+        "price": {
+          "currentPrice": "$59.88",
+          "rawPrice": "59.88",
+          "originalPrice": "$99.88",
+          "currency": "$"
+        },
+        "reviewsCount": "3034",
+        "ratings": "4.1",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 5,
+        "title": "Samsung Galaxy S24 Ultra 256GB Unlocked Android Cell Phone with 200MP Camera, Titanium Gray",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S24-Ultra-256GB-Unlocked-Android-Smartphone-with-200MP-Camera-8K-Video-Long-Battery-Titanium-Gray_30d8ef50-c55a-4882-bd4b-32e8595f1321.b6b03e72238856bfbf49c68602d9d5ff.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-S24-Ultra-256GB-Unlocked-Android-Smartphone-with-200MP-Camera-8K-Video-Long-Battery-Titanium-Gray/5176689747?classType=VARIANT&selectedSellerId=101017681",
+        "price": {
+          "currentPrice": "$1,299.99",
+          "rawPrice": "1,299.99",
+          "originalPrice": "$1,299.99",
+          "currency": "$"
+        },
+        "reviewsCount": "12449",
+        "ratings": "4.8",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 6,
+        "title": "Straight Talk Samsung Galaxy A03s, 32GB, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A03s-32GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_48260dd5-2514-4508-8384-e31a0d87e3ff.74fbf31ab86956fd1be40e125ef6b603.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Straight-Talk-Samsung-Galaxy-A03s-32GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk/706770009?classType=REGULAR&athbdg=L1200",
+        "price": {
+          "currentPrice": "$59.88",
+          "rawPrice": "59.88",
+          "originalPrice": "$59.88",
+          "currency": "$"
+        },
+        "reviewsCount": "6075",
+        "ratings": "3.8",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 7,
+        "title": "Samsung Galaxy S20+ 5G, 128GB Unlocked Smartphone, Black",
+        "image": "https://i5.walmartimages.com/seo/SAMSUNG-Unlocked-Galaxy-S20-Plus-128GB-Black-Smartphone_7e0beee2-5afa-441a-a2b1-a93e354eb396_1.10d3d68ea2bc0bdad401b6f329ac881f.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/SAMSUNG-Unlocked-Galaxy-S20-Plus-128GB-Black-Smartphone/639071082?classType=VARIANT&athbdg=L1600&selectedSellerId=101330676",
+        "price": {
+          "currentPrice": "From$22999",
+          "rawPrice": "rom$22999",
+          "originalPrice": "",
+          "currency": "F"
+        },
+        "reviewsCount": "836",
+        "ratings": "4.2",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": true,
+        "outOfStock": false
+      },
+      {
+        "position": 8,
+        "title": "Samsung Galaxy S23 FE 5G 128GB | Brand New Unlocked Android Smartphone with Galaxy AI (International Version)",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S23-FE-5G-128GB-Brand-New-Unlocked-Android-Smartphone-with-Galaxy-AI-International-Version_1eb604c4-c11b-4846-9197-5a84d18721ba.9b90d32e0e16696911b9fe10413305e2.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-S23-FE-5G-128GB-Brand-New-Unlocked-Android-Smartphone-with-Galaxy-AI-International-Version/8872317789?classType=VARIANT&athbdg=L1700&selectedSellerId=101406948",
+        "price": {
+          "currentPrice": "$499.00",
+          "rawPrice": "499.00",
+          "originalPrice": "$499.00",
+          "currency": "$"
+        },
+        "reviewsCount": "3",
+        "ratings": "2.3",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 9,
+        "title": "Samsung Galaxy A15 5G A Series Cell Phone, Factory Unlocked Android Smartphone, 128GB w/Expandable Storage, Long Battery Life, 50MP Camera, 6.5\" Infinite Display Screen, US Version, 2024, Blue Black",
+        "image": "https://i5.walmartimages.com/seo/SAMSUNG-Galaxy-A15-5G-A-Series-Cell-Phone-Factory-Unlocked-Android-Smartphone-128GB-w-Expandable-Storage-Long-Battery-Life-50MP-Camera-6-5-Infinite-D_bc773c53-06cd-4050-9f52-e0a3b6346f76.fa0f5921f729896052c82eecbaa543c1.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/SAMSUNG-Galaxy-A15-5G-A-Series-Cell-Phone-Factory-Unlocked-Android-Smartphone-128GB-w-Expandable-Storage-Long-Battery-Life-50MP-Camera-6-5-Infinite-D/5166715192?classType=VARIANT&athbdg=L1103",
+        "price": {
+          "currentPrice": "",
+          "rawPrice": "",
+          "originalPrice": "",
+          "currency": ""
+        },
+        "reviewsCount": "2283",
+        "ratings": "4.5",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 10,
+        "title": "Straight Talk Samsung Galaxy A14, 5G, 64GB, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_9b0dfc82-e67d-4b6f-9bbb-15bbce461a54.651c0beca9f59bba2fd36838bef41918.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Straight-Talk-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk/2311706193?classType=REGULAR&athbdg=L1103",
+        "price": {
+          "currentPrice": "$99.88",
+          "rawPrice": "99.88",
+          "originalPrice": "$99.88",
+          "currency": "$"
+        },
+        "reviewsCount": "3034",
+        "ratings": "4.1",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 11,
+        "title": "Straight Talk Samsung Galaxy A23, 5G, 64GB, 4GB Ram, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A23-5G-64GB-4GB-Ram-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_313fe8ef-8c0d-4df8-a81d-863c0de6676d.6166b55f1ea19f621ebd04f420bf19e2.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=11&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FStraight-Talk-Samsung-Galaxy-A23-5G-64GB-4GB-Ram-Black-Prepaid-Smartphone-Locked-to-Straight-Talk%2F106364044%3FclassType%3DREGULAR%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=yvz6R89tV7OBpExOJQqDI0jGtjHFUGX23hR0ICezFim1XBgCPvxq0ysjCFDIWUM7gwSPq5EhSQQQK8MyvvqpXuFi_LrbBFP0Qg19-EvvPaNRJ3Rmsf2WqEPFCMzlM7elqIvHZ_XW6nkU1goCF0VH1ZkAKepgC2xToBQ33BmYU8d6EoSlkm_LeE-ZQuql-Fj1b6fOI22j5pRBlbcoqeNDeP9CW0sfUJZnqA0mzTgxc4I&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR",
+        "price": {
+          "currentPrice": "$149.00",
+          "rawPrice": "149.00",
+          "originalPrice": "$199.00",
+          "currency": "$"
+        },
+        "reviewsCount": "712",
+        "ratings": "4.1",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 12,
+        "title": "Straight Talk Samsung Galaxy A15, 128GB, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A15-128GB-Black-Prepaid-Smartphone_b8d27fc1-439d-4079-8d22-c9431a88ae6d.c23095d0ea8df7ac186fa8513c020af8.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=12&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FStraight-Talk-Samsung-Galaxy-A15-128GB-Black-Prepaid-Smartphone%2F3341343950%3FclassType%3DREGULAR%26athbdg%3DL1103%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=wXhtQLhkVOoXU-_09pscshbYTkWQYJL-ell8Jf1A7kQ_7O2Yy_TGw8Fk21WsDc7kL-iCghRP4zonALJv-sG0tNvyCpda-W2MXm01cTpyNSrinmwWtzSd3pvMkDGrpf5NtZjojG5DQog-3txuZhrhFpwphiJTw12H_Ukz_a1U4Owl4Z8mpgeMvbzsVEUE-ykKlemZtdCVdeKEwSygeX4HdsQ0UJl7hiNx8z0jcfxHQeRWi7f_DU7vNw2RhH9uWOVjkneYhOD_GK-qwlh4Wmw0kg&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR&athbdg=L1103",
+        "price": {
+          "currentPrice": "$99.88",
+          "rawPrice": "99.88",
+          "originalPrice": "$129.00",
+          "currency": "$"
+        },
+        "reviewsCount": "508",
+        "ratings": "4",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 13,
+        "title": "Samsung Galaxy A55 5G A556E 128GB Dual-SIM GSM Unlocked Android Smartphone (Latin Variant/US Compatible LTE) - Awesome Navy",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-A55-5G-A556E-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-Variant-US-Compatible-LTE-Awesome-Navy_a8485292-c4ae-40fc-b737-42f9fdedc6ef.eb890319485010ea5e7bc99e400b02bb.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-A55-5G-A556E-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-Variant-US-Compatible-LTE-Awesome-Navy/5474931913?classType=VARIANT&athbdg=L1600&selectedSellerId=101406948",
+        "price": {
+          "currentPrice": "$379.00",
+          "rawPrice": "379.00",
+          "originalPrice": "$379.00",
+          "currency": "$"
+        },
+        "reviewsCount": "29",
+        "ratings": "3.9",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": true,
+        "outOfStock": false
+      },
+      {
+        "position": 14,
+        "title": "Straight Talk Samsung Galaxy A15, 128GB, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A15-128GB-Black-Prepaid-Smartphone_b8d27fc1-439d-4079-8d22-c9431a88ae6d.c23095d0ea8df7ac186fa8513c020af8.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Straight-Talk-Samsung-Galaxy-A15-128GB-Black-Prepaid-Smartphone/3341343950?classType=REGULAR&athbdg=L1103",
+        "price": {
+          "currentPrice": "$129.00",
+          "rawPrice": "129.00",
+          "originalPrice": "$129.00",
+          "currency": "$"
+        },
+        "reviewsCount": "508",
+        "ratings": "4",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 15,
+        "title": "AT&T Samsung Galaxy A14 5G, 64GB Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/AT-T-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone_fd28fe01-1f35-4681-8210-ada21485aad6.aa98a6333240cc3dc79c2ad8bad45e2a.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/AT-T-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone/1051471277?classType=REGULAR",
+        "price": {
+          "currentPrice": "$6988",
+          "rawPrice": "6988",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "1153",
+        "ratings": "3.7",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 16,
+        "title": "Straight Talk Samsung Galaxy A25 5G, 128GB, Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A25-5G-128GB-Black-Prepaid-Smartphone_2c901c84-5e6f-499d-805b-1f5d050b654a.c3f2fce155126a1bdcd6a09eadb01c34.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Straight-Talk-Samsung-Galaxy-A25-5G-128GB-Black-Prepaid-Smartphone/1409888578?classType=REGULAR",
+        "price": {
+          "currentPrice": "$199.00",
+          "rawPrice": "199.00",
+          "originalPrice": "$199.00",
+          "currency": "$"
+        },
+        "reviewsCount": "328",
+        "ratings": "4.3",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 17,
+        "title": "Restored Samsung Galaxy S21 5G 128GB G991U Fully Unlocked Smartphone (Refurbished)",
+        "image": "https://i5.walmartimages.com/seo/Restored-Samsung-Galaxy-S21-5G-128GB-G991U-Fully-Unlocked-Smartphone-Refurbished_baf7081c-e795-4ab5-9074-02f8320974c2.2760ca1bdcd7f492a3bacc04cfd8c026.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Restored-Samsung-Galaxy-S21-5G-128GB-G991U-Fully-Unlocked-Smartphone-Refurbished/429702966?classType=VARIANT&selectedSellerId=101410689",
+        "price": {
+          "currentPrice": "$19800",
+          "rawPrice": "19800",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "126",
+        "ratings": "3.6",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 18,
+        "title": "Straight Talk Samsung Galaxy A35 5G, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/ST-SAMSUNG-S356V-CDMA-LTE-HANDSET-WALMART-POSA_ab2c7dae-8cab-47f2-9f4b-2a916fda9c66.298c59fca37c0b25bbdcef25c3fd93b0.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/ST-SAMSUNG-S356V-CDMA-LTE-HANDSET-WALMART-POSA/5298865371?classType=REGULAR",
+        "price": {
+          "currentPrice": "$27900",
+          "rawPrice": "27900",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "109",
+        "ratings": "4.2",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 19,
+        "title": "Pre-Owned Samsung Galaxy S22 Ultra 256GB S908U Unlocked",
+        "image": "https://i5.walmartimages.com/seo/Like-New-Samsung-Galaxy-S22-Ultra-S908U-Unlocked_d48658f6-ada3-4e5a-a2ad-d267d0cc1f16.64c30eaad232e0f9a0860e1111153e67.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Like-New-Samsung-Galaxy-S22-Ultra-S908U-Unlocked/5293295135?classType=VARIANT&selectedSellerId=3652",
+        "price": {
+          "currentPrice": "$1,299.00",
+          "rawPrice": "1,299.00",
+          "originalPrice": "$1,299.00",
+          "currency": "$"
+        },
+        "reviewsCount": "16",
+        "ratings": "4.4",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 20,
+        "title": "Samsung Galaxy Z Flip 3 5G 128GB (Factory Unlocked) Cellphone",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-Z-Flip-3-5G-128GB-Factory-Unlocked-Cellphone_a75abc76-bc49-4fb6-b5f7-55ec89dfeb3b.e1db538ed44b4b1eeb37c8d6ebb3aa65.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-Z-Flip-3-5G-128GB-Factory-Unlocked-Cellphone/484468790?classType=VARIANT&selectedSellerId=5570",
+        "price": {
+          "currentPrice": "$386.95",
+          "rawPrice": "386.95",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "17",
+        "ratings": "3.2",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 21,
+        "title": "AT&T Samsung Galaxy A14 5G, 64GB Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/AT-T-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone_fd28fe01-1f35-4681-8210-ada21485aad6.aa98a6333240cc3dc79c2ad8bad45e2a.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=21&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FAT-T-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone%2F1051471277%3FclassType%3DREGULAR%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=fG5_bQ9GBICkrEov53fDiygDS72UPu7oiCke_rhtiin0l8Xn3MQWTdK8vjBKBAmgqgOqgsuujOZJ_kOn070xF2f0Be-EH0Iylt6ER_kO0zGA3LyOvLfYFthiynlaE-C1x2Q3kF25IDJzqmYBtSvCEu6_Ap38uXfgq30cd_VJNdmod5lpfzxoFdwk9t5Vd4yLXYYCjM656y_inA2jBouMCjpYWCu3O7wF62cHVmX9zos&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR",
+        "price": {
+          "currentPrice": "$69.88",
+          "rawPrice": "69.88",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "1153",
+        "ratings": "3.7",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 22,
+        "title": "Straight Talk Samsung Galaxy A35 5G, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/ST-SAMSUNG-S356V-CDMA-LTE-HANDSET-WALMART-POSA_ab2c7dae-8cab-47f2-9f4b-2a916fda9c66.298c59fca37c0b25bbdcef25c3fd93b0.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=22&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FST-SAMSUNG-S356V-CDMA-LTE-HANDSET-WALMART-POSA%2F5298865371%3FclassType%3DREGULAR%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=jSn5GW6dJpjKRfHbS3JzKc0N2QdEjVmK_X1vzLdfGng_7O2Yy_TGw8Fk21WsDc7krAhHf6LiOgWpctl_tK7-_ZMrxq4vJ8d_2ADuBrZ_B7dzvg7284BM-2NV0NsmjlnRBn0XK1gQm-_0lll53NHKHqhktNcnjSUupWJQcTB_6B_aJqxTfPT_tCbj7kX-oSW2A0NcVExzUwbHgUqEEtLGP3oShKWSb8t4T5lC6qX4WPVvp84jbaPmlEGVtyip40N4_0JbSx9QlmeoDSbNODFzgg&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR",
+        "price": {
+          "currentPrice": "$279.00",
+          "rawPrice": "279.00",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "109",
+        "ratings": "4.2",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 23,
+        "title": "Samsung Galaxy S21 Ultra 5G SM-G998U1 128GB Black (US Model) - Factory Unlocked Cell Phone Excellent",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S21-Ultra-5G-SM-G998U1-128GB-Black-US-Model-Factory-Unlocked-Cell-Phone-Excellent_9025c1cf-7c50-4196-8518-e5db471ef1f4.d581400b1de8e5748fb7058aec08849d.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-S21-Ultra-5G-SM-G998U1-128GB-Black-US-Model-Factory-Unlocked-Cell-Phone-Excellent/989706269?classType=VARIANT&selectedSellerId=4415",
+        "price": {
+          "currentPrice": "$277.94",
+          "rawPrice": "277.94",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "64",
+        "ratings": "3.9",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 24,
+        "title": "Cricket Wireless Samsung Galaxy A15 5G, 128GB, 4GB RAM, 13MP FF Camera, Blue Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/Cricket-Wireless-Galaxy-A15-5G-128GB-4GB-RAM-Blue-Black-Prepaid-Smartphone_cbd3275c-1ea1-4dfb-b517-4f1d6c23ae41.118bbf4ec87135add2e8aeff34c1751d.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Cricket-Wireless-Galaxy-A15-5G-128GB-4GB-RAM-Blue-Black-Prepaid-Smartphone/5080177084?classType=REGULAR",
+        "price": {
+          "currentPrice": "$139.00",
+          "rawPrice": "139.00",
+          "originalPrice": "$139.00",
+          "currency": "$"
+        },
+        "reviewsCount": "61",
+        "ratings": "4.4",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 25,
+        "title": "Samsung Galaxy Note10+ 256GB (Unlocked), Black",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-Note10-256GB-Unlocked-Black_c51c872c-9d84-46c4-a512-2333a0d0557c_1.01ba82db64726b5bbc41397b757f72c3.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-Note10-256GB-Unlocked-Black/147673876?classType=VARIANT&selectedSellerId=101681030",
+        "price": {
+          "currentPrice": "From$29800",
+          "rawPrice": "rom$29800",
+          "originalPrice": "",
+          "currency": "F"
+        },
+        "reviewsCount": "497",
+        "ratings": "4",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 26,
+        "title": "Samsung Galaxy S21+ 5G, 128GB Black - Unlocked",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S21-5G-128GB-Black-Unlocked_6d2c77b1-5500-454b-bebd-3222b1976b29.aea4a3c75ecf4c0d555da0cd2903067d.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-S21-5G-128GB-Black-Unlocked/425296253?classType=VARIANT&selectedSellerId=101330676",
+        "price": {
+          "currentPrice": "From$24499",
+          "rawPrice": "rom$24499",
+          "originalPrice": "",
+          "currency": "F"
+        },
+        "reviewsCount": "1662",
+        "ratings": "4.7",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 27,
+        "title": "Samsung Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB, 120Hz Display, Pro Grade Camera, All Day Intelligent Battery, US Version, Graphite SM-G990UZADXAA",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S21-FE-5G-Cell-Phone-Factory-Unlocked-Android-Smartphone-128GB-120Hz-Display-Pro-Grade-Camera-All-Day-Intelligent-Battery-US-Version-G_2c71cc2a-75e0-4b44-ade4-b5e6166da082.9540c0aae9d65d40a0e609d725079886.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-S21-FE-5G-Cell-Phone-Factory-Unlocked-Android-Smartphone-128GB-120Hz-Display-Pro-Grade-Camera-All-Day-Intelligent-Battery-US-Version-G/604156924?classType=VARIANT&selectedSellerId=101555422",
+        "price": {
+          "currentPrice": "$444.86",
+          "rawPrice": "444.86",
+          "originalPrice": "$444.86",
+          "currency": "$"
+        },
+        "reviewsCount": "208",
+        "ratings": "3.6",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 28,
+        "title": "Pre-Owned Samsung Galaxy S21+ Plus 5G G996U 128GB Black Unlocked Smartphone (Refurbished: Good)",
+        "image": "https://i5.walmartimages.com/seo/Pre-Owned-Samsung-Galaxy-S21-Plus-5G-G996U-128GB-Black-Unlocked-Smartphone-Refurbished-Good_3e276d92-50f7-4ac1-8973-d8f6aa0ab962.719b4ecaec8e2e582bfa35e09abfb82b.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Pre-Owned-Samsung-Galaxy-S21-Plus-5G-G996U-128GB-Black-Unlocked-Smartphone-Refurbished-Good/654933665?classType=VARIANT&selectedSellerId=3652",
+        "price": {
+          "currentPrice": "$16999",
+          "rawPrice": "16999",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "138",
+        "ratings": "3.7",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 29,
+        "title": "Samsung Galaxy A05s A057M 128GB Dual-SIM GSM Unlocked Android Smartphone (Latin America Version) - Light Violet",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-A05s-A057M-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-America-Version-Light-Violet_63fecb11-bfbf-4891-9e5a-c3bcbc4527ba.c0e9e79b56edb552ea1f740f2bda3f5d.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-A05s-A057M-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-America-Version-Light-Violet/5400671729?classType=REGULAR&selectedSellerId=8502",
+        "price": {
+          "currentPrice": "$13499",
+          "rawPrice": "13499",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "11",
+        "ratings": "4.6",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 30,
+        "title": "Straight Talk Samsung Galaxy A23, 5G, 64GB, 4GB Ram, Black - Prepaid Smartphone [Locked to Straight Talk]",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A23-5G-64GB-4GB-Ram-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_313fe8ef-8c0d-4df8-a81d-863c0de6676d.6166b55f1ea19f621ebd04f420bf19e2.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Straight-Talk-Samsung-Galaxy-A23-5G-64GB-4GB-Ram-Black-Prepaid-Smartphone-Locked-to-Straight-Talk/106364044?classType=REGULAR",
+        "price": {
+          "currentPrice": "$199.00",
+          "rawPrice": "199.00",
+          "originalPrice": "$199.00",
+          "currency": "$"
+        },
+        "reviewsCount": "712",
+        "ratings": "4.1",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 31,
+        "title": "Boost Mobile Samsung Galaxy A15 5G, 128 gb, Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/Boost-Mobile-Samsung-Galaxy-A15-5G-128-gb-Black-Prepaid-Smartphone_7fda2413-e430-453a-b24d-5be2c0b82386.f079fc1d40777d239846c42bf7cf206a.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=31&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FBoost-Mobile-Samsung-Galaxy-A15-5G-128-gb-Black-Prepaid-Smartphone%2F5080277122%3FclassType%3DREGULAR%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=GOG75rzek56cHASR7EA366Su1DgPcH9jVrc9jQYP1RFvQF-RPOd_uThBV6-9odEwGLItMslJdTe1OmMEWpxwZJn3VlakbITlFs1yeYHjISgswMJqNuvB3n1gf_KhSzeQI7mgYW5yMqKikqEhaq1MLCZMvWcu3D8xYasNq3WLzDOod5lpfzxoFdwk9t5Vd4yLXYYCjM656y_inA2jBouMCjpYWCu3O7wF62cHVmX9zos&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR",
+        "price": {
+          "currentPrice": "$99.88",
+          "rawPrice": "99.88",
+          "originalPrice": "$129.00",
+          "currency": "$"
+        },
+        "reviewsCount": "113",
+        "ratings": "4.3",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 32,
+        "title": "Straight Talk Samsung Galaxy A25 5G, 128GB, Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A25-5G-128GB-Black-Prepaid-Smartphone_2c901c84-5e6f-499d-805b-1f5d050b654a.c3f2fce155126a1bdcd6a09eadb01c34.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com/sp/track?bt=1&eventST=click&plmt=sp-search-middle~desktop~&pos=32&tax=1105910_1073085_7617805&rdf=1&rd=https%3A%2F%2Fwww.walmart.com%2Fip%2FStraight-Talk-Samsung-Galaxy-A25-5G-128GB-Black-Prepaid-Smartphone%2F1409888578%3FclassType%3DREGULAR%26adsRedirect%3Dtrue&adUid=0a72d07a-b7a3-4e18-b1b3-c54fea590d31&mloc=sp-search-middle&pltfm=desktop&pgId=samsung%20galaxy&pt=search&spQs=92Q92xUDQllDVWsf_eNBsvKLvxu1w8fT022elwCKabY_7O2Yy_TGw8Fk21WsDc7kL-iCghRP4zonALJv-sG0tNvyCpda-W2MXm01cTpyNSrinmwWtzSd3pvMkDGrpf5NpSQdMjsF4H31GxVPaFe5iO05VipK3bNiluqySoKmX6Yl4Z8mpgeMvbzsVEUE-ykKlemZtdCVdeKEwSygeX4HdsQ0UJl7hiNx8z0jcfxHQeRWi7f_DU7vNw2RhH9uWOVjkneYhOD_GK-qwlh4Wmw0kg&storeId=3520&couponState=na&bkt=ace1_default%7Cace2_default%7Cace3_default%7Ccoldstart_off%7Csearch_default&classType=REGULAR",
+        "price": {
+          "currentPrice": "$179.00",
+          "rawPrice": "179.00",
+          "originalPrice": "$199.00",
+          "currency": "$"
+        },
+        "reviewsCount": "328",
+        "ratings": "4.3",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 33,
+        "title": "Pre-Owned Samsung Galaxy S22 Ultra 5G SM-S908U1 256GB Black (US Model) - Factory Unlocked Cell Phone - Very (Refurbished: Good)",
+        "image": "https://i5.walmartimages.com/seo/Pre-Owned-Samsung-Galaxy-S22-Ultra-5G-SM-S908U1-256GB-Black-US-Model-Factory-Unlocked-Cell-Phone-Very-Refurbished-Good_0b4b7166-2688-4e0c-954d-539d5ea29ad9.5946110fe2a2c21cda0b256e2969a555.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Pre-Owned-Samsung-Galaxy-S22-Ultra-5G-SM-S908U1-256GB-Black-US-Model-Factory-Unlocked-Cell-Phone-Very-Refurbished-Good/351449871?classType=VARIANT&selectedSellerId=4415",
+        "price": {
+          "currentPrice": "From$37997",
+          "rawPrice": "rom$37997",
+          "originalPrice": "",
+          "currency": "F"
+        },
+        "reviewsCount": "140",
+        "ratings": "3.3",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 34,
+        "title": "Boost Mobile Samsung Galaxy A15 5G, 128 gb, Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/Boost-Mobile-Samsung-Galaxy-A15-5G-128-gb-Black-Prepaid-Smartphone_7fda2413-e430-453a-b24d-5be2c0b82386.f079fc1d40777d239846c42bf7cf206a.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Boost-Mobile-Samsung-Galaxy-A15-5G-128-gb-Black-Prepaid-Smartphone/5080277122?classType=REGULAR",
+        "price": {
+          "currentPrice": "$129.00",
+          "rawPrice": "129.00",
+          "originalPrice": "$129.00",
+          "currency": "$"
+        },
+        "reviewsCount": "113",
+        "ratings": "4.3",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 35,
+        "title": "Walmart Family Mobile Samsung Galaxy A14 5G, 64GB, Black - Prepaid Smartphone [Locked to Walmart Family Mobile]",
+        "image": "https://i5.walmartimages.com/seo/Walmart-Family-Mobile-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone-Locked-to-Walmart-Family-Mobile_9b0dfc82-e67d-4b6f-9bbb-15bbce461a54.651c0beca9f59bba2fd36838bef41918.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Walmart-Family-Mobile-Samsung-Galaxy-A14-5G-64GB-Black-Prepaid-Smartphone-Locked-to-Walmart-Family-Mobile/1084126912?classType=REGULAR",
+        "price": {
+          "currentPrice": "$99.88",
+          "rawPrice": "99.88",
+          "originalPrice": "$99.88",
+          "currency": "$"
+        },
+        "reviewsCount": "254",
+        "ratings": "3.1",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 36,
+        "title": "AT&T Samsung Galaxy A15 5G, 128GB, 4GB RAM, Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/AT-T-Samsung-Galaxy-A15-5G-128GB-Prepaid-Smartphone_624674cc-30ca-4a64-937e-e6e8d60e024b.4df35fd3a1929d402d0ac563ea75a69d.png?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/AT-T-Samsung-Galaxy-A15-5G-128GB-Prepaid-Smartphone/5074931811?classType=REGULAR",
+        "price": {
+          "currentPrice": "$139.00",
+          "rawPrice": "139.00",
+          "originalPrice": "$139.00",
+          "currency": "$"
+        },
+        "reviewsCount": "174",
+        "ratings": "3",
+        "shippingMessage": "Free pickup tomorrowFree shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 37,
+        "title": "Consumer Cellular, Samsung Galaxy A14 5G, 64GB, Black - Smartphone",
+        "image": "https://i5.walmartimages.com/seo/Consumer-Cellular-Samsung-Galaxy-A14-5G-64GB-Black-Smartphone_cf618134-ef3d-457a-8386-8a2427c3ee37.dd54655484d3be9e72eab8e8cbcbf4be.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Consumer-Cellular-Samsung-Galaxy-A14-5G-64GB-Black-Smartphone/1162502003?classType=REGULAR&selectedSellerId=101627508",
+        "price": {
+          "currentPrice": "$12475",
+          "rawPrice": "12475",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "161",
+        "ratings": "4.5",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 38,
+        "title": "Pre-Owned Samsung Galaxy Note 20 5G N981U (Fully Unlocked) 128GB Mystic Gray (Good)",
+        "image": "https://i5.walmartimages.com/seo/Refurbished-Samsung-Galaxy-Note-20-5G-N981U-Fully-Unlocked-128GB-Mystic-Gray-Grade-B_af300165-0d10-43a0-bb0f-1dc2322b2855.4afec441a29a975086ea55d6a4b76e62.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Refurbished-Samsung-Galaxy-Note-20-5G-N981U-Fully-Unlocked-128GB-Mystic-Gray-Grade-B/797387840?classType=VARIANT&selectedSellerId=4415",
+        "price": {
+          "currentPrice": "$20997",
+          "rawPrice": "20997",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "27",
+        "ratings": "3.4",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 39,
+        "title": "Samsung Galaxy A32 5G Black, Unlocked",
+        "image": "https://i5.walmartimages.com/seo/SAMSUNG-Galaxy-A32-5G-Black-Unlocked_96273b17-6e52-4667-be2f-0148f1a94efa.4dbbab94a819d1f6ca8be1c2bebb79b4.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/SAMSUNG-Galaxy-A32-5G-Black-Unlocked/546955909?classType=REGULAR&selectedSellerId=101330676",
+        "price": {
+          "currentPrice": "$13999",
+          "rawPrice": "13999",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "1020",
+        "ratings": "4.2",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 40,
+        "title": "Consumer Cellular, Samsung Galaxy A15 5G",
+        "image": "https://i5.walmartimages.com/seo/Consumer-Cellular-Samsung-Galaxy-A15-5G_5a284026-f1d7-4f51-bb76-8f2d18c10191.6640020f91bc5fe4be20eedaf993a3d7.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Consumer-Cellular-Samsung-Galaxy-A15-5G/5416414691?classType=REGULAR",
+        "price": {
+          "currentPrice": "$19900",
+          "rawPrice": "19900",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "8",
+        "ratings": "4.4",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 41,
+        "title": "Samsung Galaxy S23 Ultra 5G SM-S918B/DS 256GB 12GB RAM DUAL SIM (Global Model) Factory Unlocked GSM (Phantom Black)",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S23-Ultra-5G-SM-S918B-DS-256GB-12GB-RAM-DUAL-SIM-Global-Model-Factory-Unlocked-GSM-Phantom-Black_a77b9342-adda-4ed0-a9bd-2a3a80c29e21.9b9469de053b4157eb544c0267dbbca2.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-S23-Ultra-5G-SM-S918B-DS-256GB-12GB-RAM-DUAL-SIM-Global-Model-Factory-Unlocked-GSM-Phantom-Black/2932267236?classType=VARIANT&selectedSellerId=101406948",
+        "price": {
+          "currentPrice": "From$75040",
+          "rawPrice": "rom$75040",
+          "originalPrice": "",
+          "currency": "F"
+        },
+        "reviewsCount": "12",
+        "ratings": "3.2",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 42,
+        "title": "Samsung Galaxy A15 A155M 128GB Dual-SIM GSM Unlocked Android Smartphone (Latin America Version) - Yellow",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-A15-A155M-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-America-Version-Yellow_b8ecb70f-e155-466c-8fc7-73a7c5db50e8.c421db646764cf7e990436e74ccc40df.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-A15-A155M-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-America-Version-Yellow/5333107929?classType=REGULAR&selectedSellerId=102483714",
+        "price": {
+          "currentPrice": "$132.00",
+          "rawPrice": "132.00",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "10",
+        "ratings": "5",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 43,
+        "title": "Straight Talk Samsung Galaxy A54, 5G, 128GB, Black - Prepaid Smartphone",
+        "image": "https://i5.walmartimages.com/seo/Straight-Talk-Samsung-Galaxy-A54-5G-128GB-6GB-Ram-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_4394659f-0f2d-420d-829a-2ad863b77306.8c7821c8b4f7697dbc413ba122e92585.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Straight-Talk-Samsung-Galaxy-A54-5G-128GB-6GB-Ram-Black-Prepaid-Smartphone-Locked-to-Straight-Talk/1034090760?classType=REGULAR",
+        "price": {
+          "currentPrice": "",
+          "rawPrice": "",
+          "originalPrice": "",
+          "currency": ""
+        },
+        "reviewsCount": "1489",
+        "ratings": "4.2",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 44,
+        "title": "Samsung Galaxy A54 5G A Series Cell Phone, Factory Unlocked Android Smartphone, 128GB, 6.4 Fluid Display Screen, Hi Res Camera, Long Battery Life, Refined Design, US Version, 2023, Awesome Graphite",
+        "image": "https://i5.walmartimages.com/seo/SAMSUNG-Galaxy-A54-5G-A-Series-Cell-Phone-Factory-Unlocked-Android-Smartphone-128GB-w-6-4-Fluid-Display-Screen-Hi-Res-Camera-Long-Battery-Life-Refine_b5c74a6d-4ae5-497b-bd05-5ab533b2304f.a23e9c26373fdd6c77862311036e6bed.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/SAMSUNG-Galaxy-A54-5G-A-Series-Cell-Phone-Factory-Unlocked-Android-Smartphone-128GB-w-6-4-Fluid-Display-Screen-Hi-Res-Camera-Long-Battery-Life-Refine/3467193116?classType=REGULAR&selectedSellerId=5580",
+        "price": {
+          "currentPrice": "$449.99",
+          "rawPrice": "449.99",
+          "originalPrice": "$449.99",
+          "currency": "$"
+        },
+        "reviewsCount": "2194",
+        "ratings": "4.6",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 45,
+        "title": "SAMSUNG Galaxy A05s (128GB, 4GB) 6.7\" Dual SIM GSM Unlocked Global 4G LTE A057M/DS (Silver)",
+        "image": "https://i5.walmartimages.com/seo/SAMSUNG-Galaxy-A05s-128GB-4GB-6-7-GSM-Unlocked-US-Global-4G-VoLTE-A057M-DS_e627328f-6e02-408a-a906-a09c0e360815.b96e2e7a7be0cbb83a0f521bef959362.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/SAMSUNG-Galaxy-A05s-128GB-4GB-6-7-GSM-Unlocked-US-Global-4G-VoLTE-A057M-DS/5275777177?classType=VARIANT&selectedSellerId=101579394",
+        "price": {
+          "currentPrice": "$109.60",
+          "rawPrice": "109.60",
+          "originalPrice": "",
+          "currency": "$"
+        },
+        "reviewsCount": "13",
+        "ratings": "3",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 46,
+        "title": "Samsung Galaxy S20 Ultra 5G SM-G988U1 128GB Black (US Model) - Factory Unlocked Cell Phone Excellent",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S20-Ultra-5G-SM-G988U1-128GB-Black-US-Model-Factory-Unlocked-Cell-Phone-Excellent_ef1a477c-286c-43c8-8b0a-71f877311640.92e65c0e8ae5745326e848ed375a0c29.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-S20-Ultra-5G-SM-G988U1-128GB-Black-US-Model-Factory-Unlocked-Cell-Phone-Excellent/964658208?classType=VARIANT&selectedSellerId=101330676",
+        "price": {
+          "currentPrice": "From$27499",
+          "rawPrice": "rom$27499",
+          "originalPrice": "",
+          "currency": "F"
+        },
+        "reviewsCount": "20",
+        "ratings": "3.7",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 47,
+        "title": "Samsung Galaxy S10e (Unlocked) - 4G smartphone - RAM 6 GB / Internal Memory 128 GB - microSD slot - OLED display - 5.8\" - 2280 x 1080 pixels - 2x rear cameras 12 MP, 16 MP - front camera 10 MP - unlocked - prism black",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S10e-Unlocked-4G-Smartphone-RAM-6-gb-Internal-Memory-128-gb-Prism-Black_08cfab6c-23a5-4d66-bccd-8adcf619144e.003ef3d4e162e0c30ed37968c40b2048.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-S10e-Unlocked-4G-Smartphone-RAM-6-gb-Internal-Memory-128-gb-Prism-Black/319228009?classType=VARIANT&selectedSellerId=12147",
+        "price": {
+          "currentPrice": "$209.99",
+          "rawPrice": "209.99",
+          "originalPrice": "$209.99",
+          "currency": "$"
+        },
+        "reviewsCount": "57",
+        "ratings": "3.1",
+        "shippingMessage": "Free shipping, arrives in 3+ days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 48,
+        "title": "Samsung Galaxy A15 (128GB, 6GB) 6.5\" GSM Unlocked, Global 4G LTE A155M/DSN",
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-A15-A155M-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-America-Version-Blue-Black_31c44be2-1297-4995-9dd7-76e912612c7c.36c0ac92967f5b3f00dcb354e460b504.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/Samsung-Galaxy-A15-A155M-128GB-Dual-SIM-GSM-Unlocked-Android-Smartphone-Latin-America-Version-Blue-Black/5332209596?classType=VARIANT&selectedSellerId=5580",
+        "price": {
+          "currentPrice": "$159.99",
+          "rawPrice": "159.99",
+          "originalPrice": "$159.99",
+          "currency": "$"
+        },
+        "reviewsCount": "47",
+        "ratings": "4.1",
+        "shippingMessage": "Free shipping, arrives in 2 days",
+        "isBestSeller": false,
+        "outOfStock": false
+      },
+      {
+        "position": 49,
+        "title": "Samsung Galaxy S23 FE Cell Phone, 128GB, Unlocked Android Smartphone, Long Battery Life, Premium Processor, Tough Gorilla Glass Display, Hi-Res 50MP Camera, US Version, 2023, Graphite",
+        "image": "https://i5.walmartimages.com/seo/SAMSUNG-Galaxy-S23-FE-Cell-Phone-128GB-Unlocked-Android-Smartphone-Long-Battery-Life-Premium-Processor-Tough-Gorilla-Glass-Display-Hi-Res-50MP-Camera_91fe73fa-a949-4bae-aafa-26d5394bcdf8.766c5fbd2ef6d42ec531245c229b8990.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+        "link": "https://www.walmart.com?q=samsung%20galaxy/ip/SAMSUNG-Galaxy-S23-FE-Cell-Phone-128GB-Unlocked-Android-Smartphone-Long-Battery-Life-Premium-Processor-Tough-Gorilla-Glass-Display-Hi-Res-50MP-Camera/3846817990?classType=REGULAR",
+        "price": {
+          "currentPrice": "$599.99",
+          "rawPrice": "599.99",
+          "originalPrice": "$599.99",
+          "currency": "$"
+        },
+        "reviewsCount": "3772",
+        "ratings": "4.7",
+        "shippingMessage": "",
+        "isBestSeller": false,
+        "outOfStock": true
+      }
+    ],
+    "productsCount": 49,
+    "resultInfo": "Results for \"samsung galaxy\"(281)",
+    "pagination": {
+      "currentPage": 1,
+      "nextPage": 2,
+      "totalPages": 3
+    }
+  }
+}
