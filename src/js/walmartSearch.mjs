@@ -1,5 +1,5 @@
 export function walmartProductCardTemplate(product) {
-  return `<li class="product-card">
+  return `<li class="product-card walmart-card">
   <a class="product-link" href="${product.link}">
   <h4 class="product-title">${product.title}</h4>
   <img class="product-image" src="${product.image}" alt="image of ${product.title}" loading="lazy">

@@ -8,6 +8,8 @@
 
   --accent-color1: #4e576e;
   --accent-color2: #e26d5a;
+  --walmart-blue: #0071dc;
+  --target-red: #cc0000;
 }
 
 nav {
@@ -131,11 +133,12 @@ main {
 .products-display {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-evenly;
   margin: auto;
   list-style-type: none;
   padding: 0;
   gap: 20px;
-  margin-top: 2em;
+  margin-top: 1em;
   margin-bottom: 2em;
 }
 
@@ -148,7 +151,6 @@ main {
 .product-card {
   width: 174px;
   height: 300px;
-  border: 1px solid var(--accent-color2);
   padding: 1em;
   border-radius: 2em;
 }
@@ -164,4 +166,82 @@ main {
 
 .product-link {
   text-decoration: none;
+}
+
+.walmart-card {
+  border: 3px solid var(--walmart-blue);
+}
+
+.target-card {
+  border: 3px solid var(--target-red);
+}
+
+#walmart-title {
+  display: none;
+}
+
+#target-title {
+  display: none;
+}
+
+ul {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 3em;
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 2em;
+}
+
+.search-input {
+  padding: 5px;
+  width: 50%;
+  border-radius: 1em;
+  transition: padding 0.3s ease-in-out;
+}
+
+.btn-search {
+  background-color: var(--accent-color2);
+  padding: 5px;
+  border-radius: 1em;
+  transition: padding 0.3s ease-in-out;
+}
+
+.product-card:hover {
+  animation: cardGrow 0.5s normal;
+  animation-fill-mode: forwards;
+}
+
+@keyframes cardGrow {
+  from {
+    width: 174px;
+    height: 300px;
+  }
+  to {
+    width: 190px;
+    height: 316px;
+  }
+}
+
+.search-input:focus {
+  padding: 10px;
+}
+
+.search-input:focus + .btn-search {
+  padding: 10px;
+}
+
+.product-price {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+#walmart-products,
+#target-products {
+  gap: 30px;
 }

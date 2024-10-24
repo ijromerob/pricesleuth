@@ -34,6 +34,21 @@
     <main class="divider">
       <section>
         <h2>Target and Walmart Search</h2>
+        <form class="searchElements">
+          <label for="search"></label>
+          <input id="search" type="text" class="search-input" name="search" />
+          <button id="btn-walmart-search" class="btn-search">SEARCH</button>
+        </form>
+      </section>
+      <section id="products-combined-content">
+        <h3 id="walmart-title">Walmart</h3>
+        <h3 id="target-title">Target</h3>
+        <div>
+          <ul id="walmart-products-combined" class="products-display"></ul>
+        </div>
+        <div>
+          <ul id="target-products-combined" class="products-display"></ul>
+        </div>
       </section>
     </main>
     <footer id="footerPartial"></footer>

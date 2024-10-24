@@ -20,4 +20,22 @@
     display: block;
     padding: 0.5em;
   }
+
+  #products-combined-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #walmart-title {
+    color: var(--walmart-blue);
+    display: block;
+  }
+
+  #target-title {
+    color: var(--target-red);
+    display: block;
+  }
+  .search-input {
+    width: 300px;
+  }
 }
