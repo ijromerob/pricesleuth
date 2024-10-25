@@ -34,10 +34,18 @@
     <main class="divider">
       <section>
         <h2>Walmart Search</h2>
-        <form class="searchElements">
+        <form class="searchElements" id="searchForm">
           <label for="search"></label>
-          <input type="text" class="search-input" name="search" id="search" />
-          <button id="btn-walmart-search" class="btn-search">SEARCH</button>
+          <input
+            type="text"
+            class="search-input"
+            name="search"
+            id="search"
+            required
+          />
+          <button id="btn-walmart-search" type="submit" class="btn-search">
+            SEARCH
+          </button>
         </form>
       </section>
       <ul id="walmart-products" class="products-display"></ul>
