@@ -16,6 +16,7 @@ export default class providerSearch {
   }
 
   async searchData(searchElement) {
+    this.listElement.innerHTML = '';
     const urlAPI = this.searchURL + searchElement;
     const key = import.meta.env.VITE_RAPID_API_KEY;
     const options = {
