@@ -62,11 +62,30 @@ function getParams(param) {
 }
 
 async function convertToJson(res) {
-  let jsonResponse = await res.json();
-  if (res.ok) {
-    return jsonResponse;
-  } else {
-    throw { name: 'servicesError', message: jsonResponse };
+  try {
+    const text = await res.text();
+    console.log('Raw Response Text:', text); // Log the raw response text
+
+    if (res.status === 204 || res.headers.get('content-length') === '0') {
+      return null;
+    }
+
+    if (text) {
+      const jsonResponse = JSON.parse(text);
+      if (res.ok) {
+        return jsonResponse;
+      } else {
+        throw { name: 'servicesError', message: jsonResponse };
+      }
+    } else {
+      throw { name: 'servicesError', message: 'Empty response' };
+    }
+  } catch (error) {
+    throw {
+      name: 'servicesError',
+      message: 'Failed to parse JSON',
+      errorDetails: error,
+    };
   }
 }
 
@@ -88,7 +107,11 @@ function renderListWithTemplate(
   if (clear) {
     parentElement.innerHTML = '';
   }
-
+  if (list.length == 0) {
+    parentElement.innerHTML =
+      '<h2>This is embarrassing but the API did not retrieve anything</h2>';
+    return;
+  }
   const htmlStrings = list.map((product) => templateFn(product));
   parentElement.insertAdjacentHTML(position, htmlStrings.join(' '));
 }
