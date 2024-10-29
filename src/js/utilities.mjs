@@ -116,10 +116,20 @@ function renderListWithTemplate(
   parentElement.insertAdjacentHTML(position, htmlStrings.join(' '));
 }
 
+function setToLocalStorage(jsonData, key) {
+  localStorage.setItem(key, JSON.stringify(jsonData));
+}
+
+function getFromLocalStorage(key) {
+  return JSON.parse(localStorage.getItem(key));
+}
+
 export {
   loadHeaderFooterNav,
   renderWithTemplate,
   getParams,
   convertToJson,
   renderListWithTemplate,
+  setToLocalStorage,
+  getFromLocalStorage,
 };

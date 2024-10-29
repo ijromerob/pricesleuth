@@ -245,3 +245,16 @@ h2 {
 #target-products {
   gap: 30px;
 }
+
+.btn-old-search {
+  background-color: var(--accent-color2);
+  padding: 0.7em;
+  margin: 1em;
+  text-decoration: none;
+  border-radius: 50%;
+  color: var(--primary-color);
+}
+.btn-old-search button {
+  background-color: var(--accent-color2);
+  border-radius: 100%;
+}

@@ -1,4 +1,9 @@
-import { renderListWithTemplate, convertToJson } from './utilities.mjs';
+import {
+  renderListWithTemplate,
+  convertToJson,
+  getFromLocalStorage,
+  setToLocalStorage,
+} from './utilities.mjs';
 
 export default class providerSearch {
   constructor(
@@ -6,13 +11,18 @@ export default class providerSearch {
     searchURL,
     htmlTemplate,
     extractArrayFn,
-    host = null
+    host,
+    company = null,
+    searchButtonTemplate = null
   ) {
+    this.company = company;
     this.listElement = listElement;
     this.searchURL = searchURL;
     this.htmlTemplate = htmlTemplate;
     this.extractArrayFn = extractArrayFn;
     this.host = host;
+    this.searchButtonTemplate = searchButtonTemplate;
+    this.searchHistory = getFromLocalStorage(this.company) || { searches: [] };
   }
 
   async searchData(searchElement) {
@@ -31,19 +41,11 @@ export default class providerSearch {
     if (jsonData) {
       this.listElement.innerHTML = '';
       let arrayData = this.extractArrayFn(jsonData);
+      this.searchHistory.searches.push({ [searchElement]: arrayData });
+      setToLocalStorage(this.searchHistory, this.company);
       renderListWithTemplate(this.htmlTemplate, this.listElement, arrayData);
     }
   }
-  // async getImportantData(url, options) {
-  //   try {
-  //     const response = await fetch(url, options);
-  //     const result = await convertToJson(response);
-  //     console.log(result);
-  //     return result;
-  //   } catch (error) {
-  //     console.error(error);
-  //   }
-  // }
 
   async getImportantData(url, options) {
     try {
@@ -74,16 +76,59 @@ export default class providerSearch {
     }
   }
 
-  async getData() {
-    const response = await fetch(this.searchURL);
-    const data = await convertToJson(response);
-    return data;
+  renderSearchPage(id) {
+    const listOfSearches = this.searchHistory.searches;
+    let searchToRender;
+    for (let i = 0; i < listOfSearches.length; i++) {
+      if (Object.keys(listOfSearches[i]) == id) {
+        searchToRender = listOfSearches[i];
+      }
+    }
+    if (searchToRender) {
+      renderListWithTemplate(
+        this.htmlTemplate,
+        this.listElement,
+        searchToRender[id],
+        'afterbegin',
+        true
+      );
+    } else {
+      window.location.assign('index.html');
+    }
   }
-  async init() {
-    const jsonData = await this.getData();
-    if (jsonData) {
-      let arrayData = this.extractArrayFn(jsonData);
-      renderListWithTemplate(this.htmlTemplate, this.listElement, arrayData);
+
+  deletePreviousSearch(id) {
+    const newSearches = this.searchHistory.searches.filter(
+      (search) => Object.keys(search)[0] !== id
+    );
+    this.searchHistory.searches = newSearches;
+    setToLocalStorage(this.searchHistory, this.company);
+  }
+
+  init() {
+    if (this.searchHistory.searches.length > 0) {
+      const lastSearch =
+        this.searchHistory.searches[this.searchHistory.searches.length - 1];
+      const lastSearchName = Object.keys(lastSearch)[0];
+      const array = lastSearch[lastSearchName];
+      renderListWithTemplate(
+        this.searchButtonTemplate,
+        this.listElement,
+        this.searchHistory.searches,
+        'beforebegin',
+        true
+      );
+
+      renderListWithTemplate(this.htmlTemplate, this.listElement, array);
+    }
+  }
+  initCombined() {
+    if (this.searchHistory.searches.length > 0) {
+      const lastSearch =
+        this.searchHistory.searches[this.searchHistory.searches.length - 1];
+      const lastSearchName = Object.keys(lastSearch)[0];
+      const array = lastSearch[lastSearchName];
+      renderListWithTemplate(this.htmlTemplate, this.listElement, array);
     }
   }
 }

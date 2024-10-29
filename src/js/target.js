@@ -1,8 +1,14 @@
-import { loadHeaderFooterNav } from './utilities.mjs';
+import {
+  getParams,
+  loadHeaderFooterNav,
+  renderWithTemplate,
+} from './utilities.mjs';
 import providerSearch from './providerSearch.mjs';
 import {
   targetProductCardTemplate,
   extractTargetArray,
+  targetSearchButtonHTMLTemplate,
+  targetSearchButtonHTMLtemp,
 } from './targetSearch.mjs';
 // renders the header, footer, and Nav
 loadHeaderFooterNav();
@@ -17,16 +23,42 @@ const targetSearch = new providerSearch(
   targetString,
   targetProductCardTemplate,
   extractTargetArray,
-  host
+  host,
+  'target',
+  targetSearchButtonHTMLTemplate
 );
 
 const searchForm = document.querySelector('.searchElements');
 searchForm.addEventListener('submit', (event) => {
   event.preventDefault();
-  const searchQuery = document
-    .querySelector('.search-input')
-    .value.trim()
-    .split(' ')
-    .join('+');
+  const searchValue = document.querySelector('.search-input').value;
+  const searchQuery = searchValue.trim().split(' ').join('+');
+  renderWithTemplate(
+    targetSearchButtonHTMLtemp(searchQuery, searchValue),
+    productsHTMLElement,
+    'beforebegin'
+  );
   targetSearch.searchData(searchQuery);
 });
+
+targetSearch.init();
+
+const deleteSearch = document.querySelectorAll('.delete-search');
+
+if (deleteSearch.length > 0) {
+  for (let i = 0; i < deleteSearch.length; i++) {
+    deleteSearch[i].addEventListener('click', (event) => {
+      event.preventDefault();
+      const searchId = deleteSearch[i].id;
+      const parentId = `${searchId}-parent`;
+      document.getElementById(parentId).remove();
+      targetSearch.deletePreviousSearch(searchId);
+      location.reload();
+    });
+  }
+}
+
+const parameter = getParams('search');
+if (parameter) {
+  targetSearch.renderSearchPage(parameter);
+}

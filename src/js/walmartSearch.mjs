@@ -12,3 +12,16 @@ export function walmartProductCardTemplate(product) {
 export function extractWalmartArray(json) {
   return json.body.products;
 }
+
+export function walmartSearchButtonHTMLTemplate(json) {
+  const key = Object.keys(json)[0];
+  return `<a href="../walmart/index.html?search=${key}" class="btn-old-search" id="${key}-parent">
+    ${key} <button class="delete-search" id="${key}">✕</button>
+  </a>`;
+}
+
+export function walmartSearchButtonHTMLtemp(togetherString, separatedString) {
+  return `<a href="../walmart/index.html?search=${togetherString}" class="btn-old-search" id="${togetherString}-parent">
+    ${separatedString} <button class="delete-search" id="${togetherString}">✕</button>
+  </a>`;
+}
